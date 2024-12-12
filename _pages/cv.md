@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng in Artificial Intelligence, Guizhou University, 2024
+* GPA: 85.65/100, Ranking: top 10%, 5/56
 
 Research experience
 ======
@@ -92,15 +93,6 @@ Skills
 * Frameworks: Vue, Flask, Django, Spring Boot
 * Developer Tools: Git, Docker, Slurm
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 
 
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
