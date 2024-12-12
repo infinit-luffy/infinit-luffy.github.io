@@ -2,7 +2,7 @@
 title: "Stock Trading Strategies Based on Predictive Reinforcement Optimization and Past Historical Event Trends"
 collection: publications
 excerpt: 'This paper is about the Stock trading and reinforcement learning'
-date: 2024
+date: 2024-12-17
 venue: 'Expert Systems With Applications' 
 
 ---
