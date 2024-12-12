@@ -3,7 +3,7 @@ title: "Stock Trading Strategies Based on Predictive Reinforcement Optimization 
 collection: publications
 excerpt: 'This paper is about the Stock trading and reinforcement learning'
 date: 2024
-venue: 'Expert Systems With Applications'
+venue: 'Expert Systems With Applications' 
 
 ---
 
