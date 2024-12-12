@@ -2,7 +2,7 @@
 title: "Learning from Memory: Decision making by learning associations in the latent space"
 collection: publications
 excerpt: 'This paper is about unspuervise learning and reinforcement learning'
-date: 2024
+date: 2025-01-01
 venue: 'IJCAI'
 ---
 
